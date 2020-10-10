@@ -7,7 +7,7 @@ def solution(arr,val): #O(n)
     Output: True or False
 
     This algorithm has linear complexity since for each number on the list it will verify if the number that 
-    adds up to Val is a valid key on the dictionary of seen numbers. The second task takes constant time since
+    adds up to Val is a valid key on the dictionary of numbers that were seen. The second task takes constant time since
     the "in" operator is implement with hash tables to dictionaries. 
 
 
