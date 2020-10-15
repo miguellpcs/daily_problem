@@ -60,7 +60,7 @@ def solution(arr):
     
 def sol_with_division(arr):
     """
-    Easy :P
+    Easy :P 
     """
     acc = 1
     for val in arr:
