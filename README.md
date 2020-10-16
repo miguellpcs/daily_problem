@@ -51,3 +51,16 @@
       Challenge: I don't know what to add here 
 
       Diary: It was the easiest one. Straightforward
+# Day 5:
+      This problem was asked by Google.
+
+      Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
+
+      Classified as: Medium
+      My impression: Medium
+
+      Challenge: I don't know what to add here 
+
+      Diary: To implement serialize was very easy, but to implement serialize I had to remember how to do a parsing, consume tokens and this kind of stuff.
+
+      
