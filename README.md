@@ -40,3 +40,14 @@
       Diary:
       It took me a couple days to solve it, because i was trying a very inefficient approach, using pointers to the sequence of numbers that has the lower header.
 
+# Day 4:
+      This problem was asked by Jane Street.
+
+      cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4.
+
+      Classified as: Medium
+      My impression: Very very easy
+
+      Challenge: I don't know what to add here 
+
+      Diary: It was the easiest one. Straightforward
