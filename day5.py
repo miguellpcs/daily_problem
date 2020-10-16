@@ -24,7 +24,7 @@ def deserialize(stree):
     childs = splt[1][1:-2]
     
     if "(" not in childs:
-        left, right = splt = childs.split(",",1)
+        left, right = childs.split(",",1)
         return Node(val,Node(left),Node(right))
 
     openb = closeb = 0
